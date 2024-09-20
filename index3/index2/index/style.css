@@ -7,7 +7,7 @@ html{
     float:left;
     width: 400px;
     height: 250px;
-    margin-right: 500px;
+    margin: 0 auto;
 
 }
 .main{
@@ -15,14 +15,15 @@ html{
     margin-bottom: 200px;
 }
 .backtext{
-    margin-left: 1150px;
+    margin: 0 auto;
+    text-align: center;
 
 }
 header{    background-color: bisque;}
 .menu{    
     background-color: bisque;
     font-size:200%;
-    text-align: left;
+    text-align: center;
     word-spacing: 78px;
     }
 ol{
@@ -41,7 +42,7 @@ h2{background-color: bisque;}
 footer{background-color: bisque;}
 .tabletask{
     background-color: bisque;
-    margin-left: 840px;
+    margin: 0 auto;
 }
 .tabletask caption{
     font-size: x-large;
